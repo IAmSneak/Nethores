@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "nethores:nether_coal_ore"
+  },
+  "result": "minecraft:diamond",
+  "experience": 0.6,
+  "cookingtime": 200
+}
